@@ -1,3 +1,10 @@
+
+
+![ld_screenshot](https://github.com/KatarinaOldakowski/Loan_Default/assets/128411602/682ad1a8-b373-4e23-a39b-5f47e69970bd)
+
+
+
+
 # Welcome to the Loan_Default - Data Analysis Projects Repository! 📈 
 
 This repository offers a comprehensive dataset, leverages data analysis techniques, and unveils valuable data insights. I aim to showcase my skills in data cleaning, exploration, visualization, and interpretation.
